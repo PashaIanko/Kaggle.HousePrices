@@ -1,3 +1,4 @@
+###
 rel_feature_table <- function(feature){
   table <- table(feature)
   rel.table <- table / sum(table)
