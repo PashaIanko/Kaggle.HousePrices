@@ -234,5 +234,3 @@ barplot_summary(Foundation)
 
 # Basement height
 barplot_summary(BsmtQual)  # Descriptive feature
-
-
